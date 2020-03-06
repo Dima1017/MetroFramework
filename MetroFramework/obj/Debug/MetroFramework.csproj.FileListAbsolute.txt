@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\bin\Debug\MetroFramework.exe.config
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\bin\Debug\MetroFramework.exe
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csproj.CopyComplete
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\obj\Debug\MetroFramework.exe
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\Acer\source\repos\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Вычитание.resources
